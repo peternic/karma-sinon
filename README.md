@@ -1,7 +1,7 @@
-karma-sinon
-===========
+karma-sinon-ie
+==============
 
-Sinon for karma
+Sinon for karma, includes `sinon-ie` for IE compatiblity.
 
 **Example**
 ```javascript
