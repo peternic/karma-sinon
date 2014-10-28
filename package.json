@@ -28,7 +28,7 @@
     ],
     "peerDependencies": {
         "karma": ">=0.10",
-        "sinon": "1.11.0"
+        "sinon": "1.10.3"
     },
     "engines": {
         "node": ">= 0.10.0"
